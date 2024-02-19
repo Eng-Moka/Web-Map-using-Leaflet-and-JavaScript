@@ -1,0 +1,18 @@
+
+#map { 
+    height: 500px;
+    width: 95%;
+    align-items: center;
+    }
+
+.my-txt-div {
+    color: #d60bc5;
+    text-shadow: 0 1px 0px #ffffff,
+                 0 -1px 0px #ffffff;
+    text-align: center; 
+    font-size: 100%;
+    line-height: 1;
+    font-family: cursive ;
+    font-weight: bold;
+}
+    
